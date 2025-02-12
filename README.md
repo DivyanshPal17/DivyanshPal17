@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DivyanshPal17
 - 👀 I’m interested in learning about new technologies.
 - 🌱 I’m currently learning C and Python.
-- ⚡ Fun fact: I also love Cinema!
+- ⚡ Fun fact: I love Cinema!
 
 <!---
 DivyanshPal17/DivyanshPal17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
